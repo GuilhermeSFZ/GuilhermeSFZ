@@ -1,3 +1,5 @@
+![](https://komarev.com)
+
 # Hello, guys! I'm Guilherme Ferraz! 👋
 
 🎓 Computer Science Student at @UFMT
