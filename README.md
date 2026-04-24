@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=GuilhermeSFZ)
 # Hello, guys! I'm Guilherme Ferraz! 👋
 
 🎓 Computer Science Student at @UFMT
