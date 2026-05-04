@@ -13,6 +13,6 @@
 <h3 align="left">Tools and IDEs</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netbeans,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
   </a>
 </p>
