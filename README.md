@@ -11,5 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,java,js,html,css,mysql,linux)](https://skillicons.dev)
 
 <h3 align="left">Tools and IDEs</h3>
-
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netbeans,vscode,github" />
+  </a>
+</p>
