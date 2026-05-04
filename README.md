@@ -7,6 +7,7 @@
 🚀 Always exploring new ideas and building projects that make a difference
 
 <h3 align="left">Linguagens de Programação</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,java,js,html,css,mysql,linux)](https://skillicons.dev)
 
 <h3 align="left">Ferramentas e IDEs</h3>
