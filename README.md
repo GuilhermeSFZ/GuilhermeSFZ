@@ -12,7 +12,7 @@
 
 <h3 align="left">Tools and IDEs</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" vertical-align="middle" />
+[![NetBeans](https://skillicons.dev)](https://skillicons.dev)
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github" height="48" vertical-align="middle" />
   </a>
