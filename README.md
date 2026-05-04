@@ -8,15 +8,8 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://jsdelivr.net" width="40" alt="C"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="40" alt="C++"/></td>
-    <td align="center"><img src="https://jsdelivr.net" width="40" alt="Python"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>C</b></td>
-    <td align="center"><b>C++</b></td>
-    <td align="center"><b>Python</b></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" alt="C" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="C++" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" width="40" height="40" alt="Python" style="margin-right: 15px;" />
+</p>
