@@ -6,9 +6,6 @@
 
 🚀 Always exploring new ideas and building projects that make a difference
 
-### 🛠️ Tecnologias e Ferramentas
-
-
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" /></a>
   <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" /></a>
