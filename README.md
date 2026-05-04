@@ -11,15 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,java,js,html,css,mysql,linux)](https://skillicons.dev)
 
 <h3 align="left">Tools and IDEs</h3>
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="50" height="50" alt="NetBeans" />
-    </td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,github" height="50" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" alt="NetBeans" vertical-align="middle" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github" height="48" vertical-align="middle" />
+  </a>
+</p>
