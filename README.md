@@ -12,8 +12,7 @@
 
 <h3 align="left">Tools and IDEs</h3>
 <p align="left">
-[![NetBeans](https://skillicons.dev)](https://skillicons.dev)
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=NetBeans, vscode,github" height="48" vertical-align="middle" />
+      <img src="https://skillicons.dev" height="48" vertical-align="middle" />
   </a>
 </p>
