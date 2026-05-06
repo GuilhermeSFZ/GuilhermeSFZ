@@ -11,12 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,java,js,html,css,mysql)](https://skillicons.dev)
 
 <h3 align="left">Tools and IDEs</h3>
-<div style="background-color: #1a1a1a; border: 1px solid #333; border-radius: 12px; padding: 15px; display: inline-block;">
-  <img src="https://jsdelivr.net" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" width="40" height="40" />
-</div>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/NetBeans-B1292E?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
+</p>
 
 
 
