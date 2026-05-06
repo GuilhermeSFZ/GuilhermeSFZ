@@ -11,8 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,java,js,html,css,mysql,linux)](https://skillicons.dev)
 
 <h3 align="left">Tools and IDEs</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://devicon-github-oc0d8sc9g-a-f-s.vercel.app/api/icons?i=vscode,github,netbeans&theme=dark" />
-  </a>
+<p align="left" style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="40" height="40" />
 </p>
