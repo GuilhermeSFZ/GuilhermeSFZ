@@ -11,12 +11,12 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,java,js,html,css,mysql,linux)](https://skillicons.dev)
 
 <h3 align="left">Tools and IDEs</h3>
-<h3 align="left">Tools and IDEs</h3>
-<p align="left">
-  <img src="https://jsdelivr.net" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" width="40" height="40" style="margin-right: 10px;" />
+<p align="left" style="display: flex; gap: 15px;">
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
   <img src="https://jsdelivr.net" width="40" height="40" />
 </p>
+
 
 
 
