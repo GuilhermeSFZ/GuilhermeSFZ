@@ -12,7 +12,7 @@
 
 <h3 align="left">Tools and IDEs</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github" />
-  </a>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-B1292E.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
 </p>
