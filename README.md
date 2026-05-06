@@ -11,11 +11,12 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,go,java,js,html,css,mysql,linux)](https://skillicons.dev)
 
 <h3 align="left">Tools and IDEs</h3>
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="40" height="40" /></td>
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;"><img src="https://jsdelivr.net" width="40" height="40" /></td>
+    <td style="border: none; padding: 10px;"><img src="https://jsdelivr.net" width="40" height="40" /></td>
+    <td style="border: none; padding: 10px;"><img src="https://jsdelivr.net" width="40" height="40" /></td>
   </tr>
 </table>
+
 
